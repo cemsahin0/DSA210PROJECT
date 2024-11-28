@@ -27,13 +27,18 @@ This project explores how weather conditions impact daily activity levels. By an
 
 - 
 #### **Methodology:**
-  DATA COLLECTION 
-        Health Data: Personal data such as step count, heart rate, and sleep patterns will be extracted from the export.xml file exported from Apple Health. 
-        Weather Data: Historical temperature data will be obtained from a reliable weather API or CSV dataset for the corresponding dates will be extracted from the export.xml file exported from Meteostat. 
-  DATA CLEANING AND PREPROCESSING Use Python libraries such as Pandas to parse and clean the health data. Synchronize the health data with daily temperature records. 
-  EXPLORATORY DATA ANALYSIS (EDA) Visualize step counts and temperature trends over time using Matplotlib and Seaborn. Compute basic statistics like mean, median, and correlation between step count and temperature. 
-  HYPOTHESIS TESTING Conduct statistical tests to determine if there is a significant relationship between temperature and step count. 
-  VISUALIZATION Create scatter plots, heatmaps, and line graphs to illustrate findings clearly. 
-  INSIGHTS AND RECOMMENDATIONS Summarize key trends and provide actionable insights based on the analysis.
+  # Data Collection: 
+    - Health Data: Personal data such as step count, heart rate, and sleep patterns will be extracted from the export.xml file exported from Apple Health. 
+    - Weather Data: Historical temperature data will be obtained from a reliable weather API or CSV dataset for the corresponding dates will be extracted from the       export.xml file exported from Meteostat. 
+  # Data Cleaning and Preprocessing: 
+    - Use Python libraries such as Pandas to parse and clean the health data. Synchronize the health data with daily temperature records. 
+  # Exploratory Data Analysis (EDA): 
+    - Visualize step counts and temperature trends over time using Matplotlib and Seaborn. Compute basic statistics like mean, median, and correlation between step       count and temperature. 
+  # Hypothesis Testing:
+    - Conduct statistical tests to determine if there is a significant relationship between temperature and step count. 
+  # Visualization:
+    - Create scatter plots, heatmaps, and line graphs to illustrate findings clearly. 
+  # Insights and Recommendations: 
+    - Summarize key trends and provide actionable insights based on the analysis.
 
 This project demonstrates how personal data can reveal meaningful insights to optimize daily habits and achieve health goals more effectively.
