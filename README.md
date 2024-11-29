@@ -25,7 +25,7 @@ This project explores how weather conditions impact daily activity levels. By an
 - Adding variables like personal schedules or time of day could enhance insights.
 - Future work includes multi-year data analysis and step count prediction models using weather forecasts.
 
-- 
+  
 #### **Methodology:**
   # Data Collection: 
     - Health Data: Personal data such as step count, heart rate, and sleep patterns will be extracted from the export.xml file exported from Apple Health. 
